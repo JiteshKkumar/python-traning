@@ -9,7 +9,10 @@ Benfit of function:
 
 
 Module:
-       module is collection of function.
+                  module is collection of function.
 
 Package:
-        collection of modules.
+                   collection of modules.
+
+Virtual env:
+                create logical seperation on virtual env.
