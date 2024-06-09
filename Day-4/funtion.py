@@ -14,3 +14,11 @@ def subs():      #def stand for function
 
 addition()   #invoke function
 subs()       #invoke function
+
+#function with return
+
+def multiplication(num3, num4):
+    m = num3 * num4
+    return m
+
+print(multiplication(3,5))
